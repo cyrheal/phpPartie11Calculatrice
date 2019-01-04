@@ -1,0 +1,17 @@
+body{
+    background-color: #c98dc9;
+}
+.result{
+    background-color: #bfbfbf;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 20px;   
+}
+.exercice{
+    background-color: darkseagreen;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 20px;
+}
